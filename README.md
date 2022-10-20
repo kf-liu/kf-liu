@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### About Me
-- Work is: Data Visualization Front-End Engineer.
-- Major in: Digital Media Technology & Mathematics and Applied Mathematics.
+#### ABOUT ME
+- 💼 Work: Data Visualization Front-End Engineer.
+- 📖 Major: Digital Media Technology & Mathematics and Applied Mathematics.
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kf-liu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Recent Features
-- [「中国制霸Pro·自定义等级分享版」](https://github.com/kf-liu/china-ex-pro): click https://china-ex-pro.kf-liu.com 🖱️ to play and share!
+#### RECENT FEATURES
+- [中国制霸Pro·自定义等级分享版](https://github.com/kf-liu/china-ex-pro) ([click to play online](https://china-ex-pro.kf-liu.com)): just click🖱 to play and share!
+- [visual-covid-19](https://github.com/kf-liu/visual-covid-19) ([click to visit online](https://visual-covid-19.kfliu.com/)): a covid-19 data visualization using react & echart.
 
-#### Open Source Work
-[![kf-liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kf-liu&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+#### OPEN SOURCE WORK
+- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kf-liu&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-You are the ![](https://komarev.com/ghpvc/?username=kf-liu&label=NO) lucky visitor since Oct 20, 2022. Thank you for your attention!
+You are the ![](https://komarev.com/ghpvc/?username=kf-liu&label=NO) lucky visitor since Oct 20, 2022. Thank you for your 👀attention and following!
