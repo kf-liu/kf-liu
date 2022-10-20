@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ---
 
-You are the ![](https://komarev.com/ghpvc/?username=kf-liu&label=NO) lucky visitor since Oct 20, 2022. Thank you for your 👀attention and following!
+You are the ![](https://komarev.com/ghpvc/?username=kf-liu&label=NO) lucky visitor since Oct 20, 2022. Thank you for your 👀attention and ✨following!
