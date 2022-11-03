@@ -23,11 +23,11 @@ Here are some ideas to get you started:
   - etc.
 - 📖 Major: Digital Media Technology & Mathematics and Applied Mathematics.
   - Digital Media Technology
-   - 🎮 game
-   - 📺 animation
-   - 🎬 film and television
-   - 📰 media
-   - etc.
+    - 🎮 game
+    - 📺 animation
+    - 🎬 film and television
+    - 📰 media
+    - etc.
   - Mathematics and Applied Mathematics
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kf-liu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
