@@ -17,11 +17,22 @@ Here are some ideas to get you started:
 
 #### ABOUT ME
 - 💼 Work: Data Visualization Front-End Engineer.
+  - low-code
+  - component library
+  - data visualization
+  - etc.
 - 📖 Major: Digital Media Technology & Mathematics and Applied Mathematics.
+  - Digital Media Technology
+   - 🎮 game
+   - 📺 animation
+   - 🎬 film and television
+   - 📰 media
+   - etc.
+  - Mathematics and Applied Mathematics
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kf-liu&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 #### RECENT FEATURES
-- [The-Art-of-Linear-Algebra 中文版](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN): 《线性代数的艺术》, 图解吉尔伯特·斯特朗的“给每个人的线性代数”, 翻译中.
+- [The-Art-of-Linear-Algebra 中文版](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN): 翻译中.
 - [🗓 date-box](https://github.com/kf-liu/date-box) ([view on marketplace](https://github.com/marketplace/actions/date-box)): Update a pinned gist to contain your anniversaries and countdown days (or hours).
 - [🇨🇳 中国制霸Pro·自定义等级分享版](https://github.com/kf-liu/china-ex-pro) ([click to play online](https://china-ex-pro.kf-liu.com)): 中国三十四省份制霸标记工具, 自定义版.
 
