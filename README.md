@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 -->
 
 #### RECENT WORKS
-- [The-Art-of-Linear-Algebra 中文版](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN): 翻译中.
+- [The-Art-of-Linear-Algebra 中文版](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN): 中文翻译.
 - [🗓 date-box](https://github.com/kf-liu/date-box) ([view on marketplace](https://github.com/marketplace/actions/date-box)): Update a pinned gist to contain your anniversaries and countdown days (or hours).
 - [🇨🇳 中国制霸Pro·自定义等级分享版](https://github.com/kf-liu/china-ex-pro) ([click to play online](https://china-ex-pro.kf-liu.com)): 中国三十四省份制霸标记工具, 自定义版.
 
 #### OPEN SOURCE STATS
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kf-liu&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- [![kf-liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kf-liu&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
