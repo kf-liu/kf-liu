@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 -->
 
 #### RECENT WORKS
-- [frontend](https://github.com/kf-liu/frontend): 前端开源软件、工具与技术栈相关源码学习, 公众号`开源探月`.
-- [The-Art-of-Linear-Algebra 中文版](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN): 中文翻译.
+- [🛰 frontend](https://github.com/kf-liu/frontend): 前端开源软件、工具与技术栈相关源码学习, 公众号`开源探月`.
+- [📖 The-Art-of-Linear-Algebra 中文版](https://github.com/kf-liu/The-Art-of-Linear-Algebra-zh-CN): 中文翻译.
 - [🗓 date-box](https://github.com/kf-liu/date-box) ([view on marketplace](https://github.com/marketplace/actions/date-box)): Update a pinned gist to contain your anniversaries and countdown days (or hours).
 - [🇨🇳 中国制霸Pro·自定义等级分享版](https://github.com/kf-liu/china-ex-pro) ([click to play online](https://china-ex-pro.kf-liu.com)): 中国三十四省份制霸标记工具, 自定义版.
 
